@@ -36,6 +36,5 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
-<br>
-<br>
-<br>
+<br> <br> <br> <br>
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/ca505d45-cfdf-4320-9219-2d539163575e" />
