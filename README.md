@@ -32,16 +32,6 @@ I'm a Software Engineering student passionate about designing, developing, and i
 
 <br clear="right"/>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ACPC-2×%20Finalist-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Competitive-Programming-00D9FF?style=for-the-badge"/>
-</p>
-
-- 🥇 Participated as a finalist in the Arab Collegiate Programming Contest (ACPC) twice.
-- 💡 Actively developing problem-solving and algorithmic thinking skills.
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
