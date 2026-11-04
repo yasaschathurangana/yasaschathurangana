@@ -43,20 +43,22 @@ I'm a Software Engineering student passionate about designing, developing, and i
 ### 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,graphql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### ☁️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+<br>
 
 <br>
 
