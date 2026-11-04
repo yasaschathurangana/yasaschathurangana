@@ -71,12 +71,6 @@ I'm a Software Engineering student passionate about designing, developing, and i
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaschathurangana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yasaschathurangana&theme=tokyo-night&hide_border=true" alt="Contribution Activity"/>
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
