@@ -77,7 +77,7 @@ I'm a Software Engineering student passionate about designing, developing, and i
   <a href="https://www.linkedin.com/in/yasasmax12/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBwbVDkHrZHCSMHXdqFPZWRBkzchZHQbbqkhGRMnNPspmWhRHSGwtkrBMqfTTqltbZMV">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
