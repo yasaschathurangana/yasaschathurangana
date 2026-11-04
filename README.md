@@ -88,17 +88,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaschathurangana&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6ff" alt="Top Languages" />
 </p>
-
-<br>
-
----
-
-## 📈 Contribution Timeline
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasaschathurangana&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00e6ff&line=00e6ff&point=ffffff" alt="Activity Graph" />
-</p>
-
 <br>
 
 <br>
