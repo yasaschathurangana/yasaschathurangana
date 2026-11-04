@@ -86,12 +86,6 @@ I'm a Software Engineering student passionate about designing, developing, and i
 </p>
 
 <p align="center">
-  <b>💬 Always open to learning, collaborating and building something meaningful!</b>
-</p>
-
----
-
-<p align="center">
   <i>"Great things are built one line of code at a time."</i>
 </p>
 
