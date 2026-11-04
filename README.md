@@ -1,97 +1,116 @@
-<h1 align="center">
-  <b>Hi, I'm Yasas Isuru Chathurangana</b> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+# 👋 Hi, I'm Yasas Isuru Chathurangana
+
+<h3 align="center">Software Engineer in Training | Competitive Programmer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+in+Training;Competitive+Programmer;Full+Stack+Developer;Problem+Solver;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Passionate+Software+Engineer;Competitive+Programming+Enthusiast;Building+Real-World+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/yasaschathurangana">
+    <img src="https://komarev.com/ghpvc/?username=yasaschathurangana&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/yasaschathurangana?tab=followers">
+    <img src="https://img.shields.io/github/followers/yasaschathurangana?label=Followers&style=flat&color=00D9FF" alt="Followers"/>
   </a>
 </p>
 
-<br>
-
-<p align="left">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-  </picture>
-  <b>👨‍💻 About Me</b>
-</p>
-
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
-
-<br>
-
-- 🎓 **Education:** Junior at [Institute of Computer Engineering Technology (iCET)](https://icet.lk/)
-- 🏆 **Achievements:** 2x ACPC (Arab Collegiate Programming Contest) Finalist
-- 💻 **Passion:** Building software solutions for real-world problems
-- 🏅 **Competitive Programming:** Active on Codeforces, Atcoder, LeetCode, CodeChef
-- 📚 **Currently Learning:** Computer Science & Software Engineering
-- 🧠 **Motto:** "Always learning, always growing"
-- 💼 **Status:** Open for job opportunities! [📩 Contact Me](mailto:your-email@example.com)
-- 🌍 **Location:** Sri Lanka
-
-<br>
-
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+<img align="right" width="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="Coding animation"/>
+
+I'm a Software Engineering student passionate about designing, developing, and improving software solutions.
+
+- 🎓 Junior at [Institute of Computer Engineering Technology (iCET)](https://icet.lk/)
+- 💻 Interested in Software Engineering and Full Stack Development
+- 🧠 Passionate about Data Structures, Algorithms and Problem Solving
+- 🌱 Continuously improving my programming and development skills
+- 🌍 Based in Sri Lanka
+- 🎯 Goal: Become a skilled Software Engineer and build impactful applications
+
+<br clear="right"/>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACPC-2×%20Finalist-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Competitive-Programming-00D9FF?style=for-the-badge"/>
+</p>
+
+- 🥇 Participated as a finalist in the Arab Collegiate Programming Contest (ACPC) twice.
+- 💡 Actively developing problem-solving and algorithmic thinking skills.
+
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 </p>
 
 ### 🎨 Frontend Development
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="55" height="55" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="55" height="55" />
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind" width="55" height="55" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### 🗄️ Backend & Databases
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55" />
+### ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,graphql" />
 </p>
 
-### ☁️ DevOps & Tools
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="55" height="55" />
+### ☁️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,idea" />
 </p>
 
 <br>
-
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasaschathurangana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00e6ff&icon_color=00e6ff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasaschathurangana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasaschathurangana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasaschathurangana&theme=tokyonight&hide_border=true&ring=00e6ff&fire=00e6ff&currStreakLabel=00e6ff" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaschathurangana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yasaschathurangana&theme=tokyo-night&hide_border=true" alt="Contribution Activity"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/yasaschathurangana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yasasmax12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="chathuranganayasas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaschathurangana&layout=compact&theme=tokyonight&hide_border=true&title_color=00e6ff" alt="Top Languages" />
+  <b>💬 Always open to learning, collaborating and building something meaningful!</b>
 </p>
-<br>
 
-<br>
+---
 
-<img width="100%" height="auto" alt="Yasas Isuru Chathurangana Banner" src="https://github.com/user-attachments/assets/ca505d45-cfdf-4320-9219-2d539163575e" />
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
 
-<br>
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/ca505d45-cfdf-4320-9219-2d539163575e" alt="Yasas Isuru Chathurangana Banner"/>
+</p>
