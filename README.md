@@ -101,36 +101,6 @@
 
 <br>
 
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasasmax12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://github.com/yasaschathurangana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <a href="https://leetcode.com/yourusername/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasaschathurangana&color=00e6ff&style=flat-square" alt="Profile Views" />
-</p>
-
 <br>
 
 <img width="100%" height="auto" alt="Yasas Isuru Chathurangana Banner" src="https://github.com/user-attachments/assets/ca505d45-cfdf-4320-9219-2d539163575e" />
