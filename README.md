@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasas Isuru Chathurangana
+<h3 align="center"> 👋 Hi, I'm Yasas Isuru Chathurangana </h3>
 
 <h3 align="center">Software Engineer in Training | Competitive Programmer | Full Stack Developer</h3>
 
