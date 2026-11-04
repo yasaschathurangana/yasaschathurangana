@@ -63,12 +63,7 @@ I'm a Software Engineering student passionate about designing, developing, and i
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasaschathurangana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Statistics"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasaschathurangana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaschathurangana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 ## 🌐 Connect With Me
